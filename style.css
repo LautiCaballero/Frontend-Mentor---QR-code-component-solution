@@ -1,0 +1,40 @@
+html {
+    margin: 0;
+    font-size: 15px;
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+section {
+    
+    background-color: hsl(0, 0%, 100%);
+    width:300px;
+    margin: 10% auto;
+    border-radius: 1rem;
+    box-shadow: 0 0 3rem rgba(0, 0, 0, 0.3);
+}
+
+img {
+    width: 270px;
+    padding: 1rem;
+}
+
+#img_br {
+    border-radius: 9%;
+}
+
+.text {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    margin: auto 0;
+    padding: 0 1.5rem 2rem 1.5rem;
+}
+
+#h2_blue {
+    color: hsl(218, 44%, 22%);
+}
+
+#p_gray {
+    color: hsl(220, 15%, 55%);
+}
